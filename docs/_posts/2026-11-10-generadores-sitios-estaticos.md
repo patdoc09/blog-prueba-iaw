@@ -7,7 +7,7 @@ title:  "Generadores de sitios estáticos"
 
 Un SSG se encarga de obtener archivos y datos, y de cargarlos junto con archivos HTML, CSS y JavaScript durante su compilación para generar un sitio web. Todo esto va acompañado de la red de distribución de contenidos (CDN). Para transformar los archivos en una página web, utilizan plantillas escritas en HTML.
 
-![ssg](/assets/imagenes/maxresdefault.jpg)
+![ssg]({{'/assets/imagenes/maxresdefault.jpg' | relative_url}})
 
 ## Ventajas
 
@@ -17,7 +17,8 @@ Un SSG se encarga de obtener archivos y datos, y de cargarlos junto con archivos
 
 ## Vídeo
 
-https://youtu.be/AkQM7w1M-2U?si=Oq6e50yKTBdwdux9
+[Ver vídeo en YouTube](https://youtu.be/AkQM7w1M-2U?si=Oq6e50yKTBdwdux9v)
+
 
 ## Comparativa: Jekyll, Hugo y Astro
 

@@ -10,7 +10,7 @@ title:  "Sistema de Gestión de Contenidos"
 
 Un **CMS** (*Content Management System*) es un sistema de gestión de contenidos que permite crear, editar y administrar páginas web sin programarlas desde cero. Separa el **contenido** (textos, imágenes, vídeos) del **diseño** (plantillas y temas), de modo que se puede modificar uno sin afectar al otro.
 
-![Esquema de un CMS](/assets/imagenes/portada-cms.jpg)
+![Esquema de un CMS]({{'/assets/imagenes/portada-cms.jpg' | relative_url}})
 
 ## **Funcionamiento**
 
